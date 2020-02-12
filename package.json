@@ -1,7 +1,7 @@
 {
   "name": "webpack-starter-kit",
   "version": "1.1.0",
-  "description": "",
+  "description": "Food service",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --env.mode development --config ./webpack/config.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
+    "url": "git+https://github.com/A-901/goit-js-hw-10-food-service"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
-  "license": "MIT",
+  "author": "Alexander Ilinskiy <e7000@ukr.net>",
+  "license": "GoIT",
   "bugs": {
-    "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
+    "url": "https://github.com/A-901/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://github.com/luxplanjay/webpack-starter-kit#readme",
+  "homepage": "https://github.com/A-901/goit-js-hw-10-food-service#readme",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-proposal-class-properties": "^7.5.5",
